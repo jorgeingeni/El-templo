@@ -1,0 +1,7 @@
+{
+  "name": "El Templo - Gimnasio Elite",
+  "description": "Tu cuerpo es tu templo. Entrénalo como tal. Gimnasio de alto rendimiento con instalaciones de vanguardia, clases grupales y entrenamiento personalizado.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
